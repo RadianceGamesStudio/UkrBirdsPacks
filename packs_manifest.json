@@ -1,54 +1,54 @@
 {
   "enemies.pck": {
-    "mtime": "2025-11-15T18:13:42Z",
+    "mtime": "2025-11-15T19:35:51Z",
     "sha256": "cb0b19360dcac64b03df3114c8b72d03b245ba249f888a4dbd9c207c6c928eee",
     "size": 1158320,
     "version": "cb0b19360dcac64b03df3114c8b72d03b245ba249f888a4dbd9c207c6c928eee"
   },
   "environment.pck": {
-    "mtime": "2025-11-15T18:13:42Z",
+    "mtime": "2025-11-15T19:35:51Z",
     "sha256": "7beb6c2bf02597bde3e322f9bc8e7c4d195903768790067b56fc00ca6df5a908",
     "size": 1090336,
     "version": "7beb6c2bf02597bde3e322f9bc8e7c4d195903768790067b56fc00ca6df5a908"
   },
   "gameplay_ui.pck": {
-    "mtime": "2025-11-15T18:13:42Z",
+    "mtime": "2025-11-15T19:35:51Z",
     "sha256": "575272d395e939f6bd82f469c364de05946ef376f15bc1693d106a60cf435e48",
     "size": 929296,
     "version": "575272d395e939f6bd82f469c364de05946ef376f15bc1693d106a60cf435e48"
   },
   "levels.pck": {
-    "mtime": "2025-11-15T18:13:42Z",
+    "mtime": "2025-11-15T19:35:52Z",
     "sha256": "36613c5c47d9604e14ac575ea46516ab2562c71f0365eb94f243984d151f921a",
     "size": 31646672,
     "version": "36613c5c47d9604e14ac575ea46516ab2562c71f0365eb94f243984d151f921a"
   },
   "menu.pck": {
-    "mtime": "2025-11-15T18:13:42Z",
+    "mtime": "2025-11-15T19:35:52Z",
     "sha256": "5b19f8f84d94ad752feff86686844f58b7a3b4b7ad63948c9ff53685dcbc1051",
     "size": 2899840,
     "version": "5b19f8f84d94ad752feff86686844f58b7a3b4b7ad63948c9ff53685dcbc1051"
   },
   "misc.pck": {
-    "mtime": "2025-11-15T18:13:42Z",
+    "mtime": "2025-11-15T19:35:52Z",
     "sha256": "5dcf23bacc0bd9a20bba32c20ffcec4e6fc6792f0db3f1fc990d6eb65ba818ca",
     "size": 761216,
     "version": "5dcf23bacc0bd9a20bba32c20ffcec4e6fc6792f0db3f1fc990d6eb65ba818ca"
   },
   "story_part1.pck": {
-    "mtime": "2025-11-15T18:13:43Z",
-    "sha256": "0ad6cd2dfca3868fc4ab2c3b25ee84dd2fb29c7433194d7298059734101db375",
-    "size": 103900160,
-    "version": "0ad6cd2dfca3868fc4ab2c3b25ee84dd2fb29c7433194d7298059734101db375"
+    "mtime": "2025-11-15T19:35:52Z",
+    "sha256": "143b89e4d0eb42b0c788a9114f8bc198ea2e9548d27193004daf874bcb9b2ae1",
+    "size": 48686800,
+    "version": "143b89e4d0eb42b0c788a9114f8bc198ea2e9548d27193004daf874bcb9b2ae1"
   },
   "story_part2.pck": {
-    "mtime": "2025-11-15T18:13:43Z",
-    "sha256": "e65442054d98d11ac50eb19108e8450128689a2792b28b5a276cf5021a743a20",
-    "size": 53738272,
-    "version": "e65442054d98d11ac50eb19108e8450128689a2792b28b5a276cf5021a743a20"
+    "mtime": "2025-11-15T19:35:52Z",
+    "sha256": "eda7bd15a5be105b5b47bd13f0628ef77ef432cc12a61c45260065e3d0d5968a",
+    "size": 46874912,
+    "version": "eda7bd15a5be105b5b47bd13f0628ef77ef432cc12a61c45260065e3d0d5968a"
   },
   "weapons.pck": {
-    "mtime": "2025-11-15T18:13:43Z",
+    "mtime": "2025-11-15T19:35:52Z",
     "sha256": "ae9ce4fbe3dc1355fb65be7899db16ff34bb52e218dc25ebfef6706cd40afd4b",
     "size": 784176,
     "version": "ae9ce4fbe3dc1355fb65be7899db16ff34bb52e218dc25ebfef6706cd40afd4b"
